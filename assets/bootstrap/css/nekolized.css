@@ -1,0 +1,33 @@
+/***Attributes***/
+
+:root {
+    --nklcs: #00fbff;
+    --nklcs-dark: #002427;
+}
+
+
+/***Colors***/
+
+.btn-facebook {
+    color: #fff;
+    background-color: #3b5998;
+    border-color: #3b5998;
+}
+
+.btn-facebook:hover {
+    color: #001d1d;
+    background-color: #26385f;
+    border-color: #26385f;
+}
+
+.btn-telegram {
+    color: #fff;
+    background-color: #0088cc;
+    border-color: #0088cc;
+}
+
+.btn-telegram:hover {
+    color: #001d1d;
+    background-color: #003a57;
+    border-color: #003a57;
+}
