@@ -47,8 +47,8 @@
     
     .btn-telegram:hover {
         color: #fff;
-        background-color: #0088cc;
-        border-color: #0088cc
+        background-color: #004a6e;
+        border-color: #004a6e
     }
     
     .btn-telegram.focus,
@@ -67,8 +67,8 @@
     
     .btn-facebook:hover {
         color: #fff;
-        background-color: #4267B2;
-        border-color: #4267B2
+        background-color: #293f6b;
+        border-color: #293f6b
     }
     
     .btn-facebook.focus,
@@ -76,5 +76,5 @@
         color: #fff;
         background-color: #4267B2;
         border-color: #4267B2;
-        box-shadow: 0 0 0 .2rem rgba(38, 143, 255, .5)
+        box-shadow: 0 0 0 .2rem #268fff80
     }
