@@ -29,14 +29,14 @@
     }
     
     .bg-neko {
-        background-color: #002d30!important
+        background-color: #002124!important
     }
     
     a.bg-neko:focus,
     a.bg-neko:hover,
     button.bg-neko:focus,
     button.bg-neko:hover {
-        background-color: #002124!important
+        background-color: #001416!important
     }
     
     .btn-telegram {
